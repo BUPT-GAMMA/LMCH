@@ -1,8 +1,6 @@
 # LMCH
 The source code of **Harnessing Language Model for Cross-Heterogeneity Graph Knowledge Transfer**.
 
-The source code is based on [LMBot](https://github.com/czjdsg/LMBot)
-
 ## Requirements and Installation
 Run following command to create environment for reproduction (for cuda 10.2):
 ```
